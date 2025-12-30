@@ -1,27 +1,22 @@
+# ➗ MathSuite
 
----
-
-# ➗ Sistema.Mathsuite
-
-👉 Cole isso no `README.md` do repositório **Sistema.Mathsuite**
-
-```md
-# ➗ Sistema Mathsuit
-
-Aplicação em **Java** voltada para a execução de operações matemáticas,
-com foco no reforço de lógica e uso da biblioteca padrão da linguagem.
+Projeto desenvolvido em **Java** com foco na prática de operações matemáticas
+e no uso da biblioteca padrão da linguagem.
 
 ## 📌 Sobre
-O projeto reúne funcionalidades matemáticas como cálculos, arredondamentos
-e geração de números aleatórios, permitindo praticar métodos da classe `Math`
-e manipulação de valores numéricos.
+O MathSuite é uma aplicação voltada para o reforço da lógica de programação,
+reunindo diversas funcionalidades matemáticas comuns.  
+O projeto foi criado com objetivo educacional, ajudando a consolidar conceitos
+básicos e intermediários da linguagem Java.
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias Utilizadas
 - Java
+- Biblioteca padrão (`Math`)
+- IDE: IntelliJ / Eclipse / VS Code
 
 ## ⚙️ Funcionalidades
 - Cálculo de raiz quadrada
-- Arredondamento (ceil, floor e round)
+- Arredondamento de valores (ceil, floor e round)
 - Cálculo de potência
 - Verificação de maior e menor valor
 - Geração de números aleatórios
